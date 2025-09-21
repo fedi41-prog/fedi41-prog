@@ -4,7 +4,7 @@
 nice to see you (: 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedi4&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedi41-prog&layout=compact&theme=tokyonight)
 <!--
 [![My Skills](https://skillicons.dev/icons?i=python,java,raspberrypi,github,)](https://skillicons.dev)
 -->
