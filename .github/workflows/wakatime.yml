@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # Jeden Tag um Mitternacht
   workflow_dispatch:
 
+permissions:
+  contents: write   # <-- wichtig, sonst kann der Bot nichts ins Repo pushen
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
