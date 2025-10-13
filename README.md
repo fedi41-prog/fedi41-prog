@@ -17,13 +17,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Tuesday                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
-Sunday                   95 commits          ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Monday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Tuesday                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Sunday                   98 commits          ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
 ```
 
 
@@ -31,15 +31,15 @@ Sunday                   95 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     6 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.31 % 
-Java                     4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.03 % 
-CSS                      1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Java                     8 hrs 5 mins        ████████████████░░░░░░░░░   62.67 % 
+HTML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+CSS                      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 
 
- Last Updated on 12/10/2025 01:07:26 UTC
+ Last Updated on 13/10/2025 01:08:50 UTC
 <!--END_SECTION:waka-->
     
 </details>
