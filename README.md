@@ -17,13 +17,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Wednesday                52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
-Sunday                   98 commits          ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
+Monday                   64 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Tuesday                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Friday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Saturday                 76 commits          █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Sunday                   98 commits          ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 ```
 
 
@@ -31,15 +31,15 @@ Sunday                   98 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     7 hrs 1 min         █████████████████░░░░░░░░   66.16 % 
-HTML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Gradle                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Java                     7 hrs 15 mins       ████████████████░░░░░░░░░   64.37 % 
+HTML                     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+Gradle                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Text                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 
- Last Updated on 15/10/2025 01:06:12 UTC
+ Last Updated on 16/10/2025 01:05:56 UTC
 <!--END_SECTION:waka-->
     
 </details>
