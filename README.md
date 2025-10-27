@@ -31,15 +31,15 @@ Sunday                   98 commits          ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.81 % 
-HTML                     2 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   36.34 % 
-Python                   40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
-Gradle                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Groovy                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+HTML                     2 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.70 % 
+Python                   1 hr 38 mins        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Java                     1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Gradle                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 
- Last Updated on 26/10/2025 01:11:35 UTC
+ Last Updated on 27/10/2025 01:13:11 UTC
 <!--END_SECTION:waka-->
     
 </details>
