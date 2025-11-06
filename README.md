@@ -14,32 +14,8 @@
 <details>
     <summary>stats...</summary>
     <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Tuesday                  22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Wednesday                53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Thursday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Saturday                 89 commits          █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
-Sunday                   99 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     7 hrs 50 mins       ████████████████░░░░░░░░░   62.56 % 
-Python                   3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-```
-
-
- Last Updated on 05/11/2025 01:10:08 UTC
+ Last Updated on 06/11/2025 01:09:21 UTC
 <!--END_SECTION:waka-->
     
 </details>
