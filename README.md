@@ -17,13 +17,13 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Tuesday                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Wednesday                54 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Saturday                 90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Sunday                   102 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Monday                   67 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Tuesday                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Wednesday                56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Thursday                 73 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Saturday                 90 commits          █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+Sunday                   102 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 
@@ -31,15 +31,15 @@ Sunday                   102 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   18 hrs 23 mins      ███████████████████░░░░░░   75.35 % 
-Java                     3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Text                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Gradle                   26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Python                   18 hrs 27 mins      █████████████████░░░░░░░░   69.71 % 
+Java                     4 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+Text                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Gradle                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 
- Last Updated on 19/11/2025 01:09:11 UTC
+ Last Updated on 20/11/2025 01:07:48 UTC
 <!--END_SECTION:waka-->
     
 </details>
