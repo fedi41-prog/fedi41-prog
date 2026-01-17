@@ -14,10 +14,9 @@
 <a href="https://fedi41-prog.github.io">Visit my github pages website (:</a>
 
 ## My coding activity (:
-[https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/e54ff984-e0bd-451e-bf15-5ea80f5b7db9.png](https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/e54ff984-e0bd-451e-bf15-5ea80f5b7db9.png)
-
+<img src="https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/930c453f-daac-49a5-87f1-f55502083661.svg"> 
 ## Different languages I used
-[https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/999c038f-2dd2-4adc-9dbb-0b89834e8a1d.png](https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/999c038f-2dd2-4adc-9dbb-0b89834e8a1d.png)
+<img src="https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/e28e7912-0e12-4e97-9498-bc4bab31cdf7.svg">
 
 
 
