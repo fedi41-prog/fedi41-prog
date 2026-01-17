@@ -15,6 +15,7 @@
 
 ## My coding activity (:
 <img src="https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/930c453f-daac-49a5-87f1-f55502083661.svg"> 
+
 ## Different languages I used
 <img src="https://wakatime.com/share/@34ead179-396c-4824-bd2e-edef37ca8b39/e28e7912-0e12-4e97-9498-bc4bab31cdf7.svg">
 
