@@ -5,6 +5,3 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,raspberrypi,androidstudio,kotlin)](https://skillicons.dev) 
-
-
-<a href="https://fedi41-prog.github.io">Visit my github pages website (:</a>
