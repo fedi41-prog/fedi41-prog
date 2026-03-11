@@ -4,4 +4,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Nice+to+meet+you!;I`m+Fedor;love+crocodiles!;...and+coding)](https://git.io/typing-svg)
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,raspberrypi,androidstudio,kotlin)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,raspberrypi,idea,androidstudio,pycharm,vscode,css,html,github,gmail,obsidian)](https://skillicons.dev) 
