@@ -5,3 +5,8 @@
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,raspberrypi,idea,androidstudio,pycharm,vscode,css,html,github,gmail,obsidian)](https://skillicons.dev) 
+
+### Try my games! (in development)
+- [The fish game](https://fedi41.itch.io/the-fish-game)
+
+ [Flappylotl](https://fedi41.itch.io/flappylotl)
