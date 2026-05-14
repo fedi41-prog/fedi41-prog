@@ -8,5 +8,4 @@
 
 ### Try my games! (in development)
 - [The fish game](https://fedi41.itch.io/the-fish-game)
-
- [Flappylotl](https://fedi41.itch.io/flappylotl)
+- [Flappylotl](https://fedi41.itch.io/flappylotl)
