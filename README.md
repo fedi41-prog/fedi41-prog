@@ -6,6 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,cpp,raspberrypi,idea,androidstudio,pycharm,vscode,css,html,github,obsidian,unity)](https://skillicons.dev) 
 
+### Follow on Stardance! https://stardance.hackclub.com/@Fedi41
+
 ### Try my games! (in development)
 - [The fish game](https://fedi41.itch.io/the-fish-game)
 - [Flappylotl](https://fedi41.itch.io/flappylotl)
