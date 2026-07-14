@@ -6,6 +6,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,cpp,raspberrypi,idea,androidstudio,pycharm,vscode,css,html,github,obsidian,unity)](https://skillicons.dev) 
 
+## Currently making my [own split keyboard](https://github.com/fedi41-prog/orpheus-split)!
+<img width="858" height="547" alt="Screenshot 2026-07-14 130720" src="https://github.com/user-attachments/assets/f953f5ff-a2fc-461c-8b40-1b58b0643c73" />
+
 ### Follow on Stardance! https://stardance.hackclub.com/@Fedi41
 
 ### Try my games! (in development)
