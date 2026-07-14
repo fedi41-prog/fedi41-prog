@@ -17,3 +17,4 @@
 - Follow me on Stardance! https://stardance.hackclub.com/@Fedi41
 - Slack (for hackclubbers): https://hackclub.enterprise.slack.com/team/U0ACE3UH351
 - Discord username - fedi4prog
+- Minecraft name - Fedi41Peti41
