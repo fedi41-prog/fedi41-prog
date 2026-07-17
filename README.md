@@ -3,11 +3,32 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Nice+to+meet+you!;I`m+Fedor;love+crocodiles!;...and+coding)](https://git.io/typing-svg)
 
+[> My portfolio <](fedi41.github.io)
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,cpp,raspberrypi,idea,androidstudio,pycharm,vscode,css,html,github,obsidian,unity)](https://skillicons.dev) 
+
+## Skills
+### Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,kotlin,html,css)](https://skillicons.dev)
+
+### Tools & IDEs
+[![Tools](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,vscode,git,github,raspberrypi)](https://skillicons.dev)
+
+### Frameworks & other
+[![Other](https://skillicons.dev/icons?i=unity,obsidian)](https://skillicons.dev)
+
+### Currently Learning
+[![Learning](https://skillicons.dev/icons?i=cpp,c)](https://skillicons.dev)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+
+### Familiar with
+[![Familiar](https://skillicons.dev/icons?i=js,postgres,gradle)](https://skillicons.dev)
+
+---
 
 ## Currently making my [own split keyboard](https://github.com/fedi41/orpheus-split)!
 <img width="858" height="547" alt="Screenshot 2026-07-14 130720" src="https://github.com/user-attachments/assets/f953f5ff-a2fc-461c-8b40-1b58b0643c73" />
+
+---
 
 ### Some simple games I made:
 - [The fish game](https://fedi41.itch.io/the-fish-game)
@@ -16,5 +37,5 @@
 ### Links
 - Follow me on Stardance! https://stardance.hackclub.com/@Fedi41
 - Slack (for hackclubbers): https://hackclub.enterprise.slack.com/team/U0ACE3UH351
-- Discord username - fedi4prog
-- Minecraft name - Fedi41Peti41
+- Discord username: fedi4prog
+- Minecraft name: Fedi41Peti41
