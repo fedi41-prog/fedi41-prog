@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F75C7E&lines=Nice+to+meet+you!;I`m+Fedor;love+crocodiles!;...and+coding)](https://git.io/typing-svg)
 
-[> My portfolio <](fedi41.github.io)
+[> My portfolio <](https://fedi41.github.io)
 
 
 ## Skills
@@ -13,7 +13,7 @@
 ### Tools & IDEs
 [![Tools](https://skillicons.dev/icons?i=idea,androidstudio,pycharm,vscode,git,github,raspberrypi)](https://skillicons.dev)
 
-### Frameworks & other
+### Other tools
 [![Other](https://skillicons.dev/icons?i=unity,obsidian)](https://skillicons.dev)
 
 ### Currently Learning
@@ -37,5 +37,3 @@
 ### Links
 - Follow me on Stardance! https://stardance.hackclub.com/@Fedi41
 - Slack (for hackclubbers): https://hackclub.enterprise.slack.com/team/U0ACE3UH351
-- Discord username: fedi4prog
-- Minecraft name: Fedi41Peti41
