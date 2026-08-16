@@ -26,11 +26,6 @@ I am Fedor, also known as fedi41. This is the github account for my coding stuff
 
 ---
 
-## Currently making my [own split keyboard](https://github.com/fedi41/orpheus-split)!
-<img width="858" height="547" alt="Screenshot 2026-07-14 130720" src="https://github.com/user-attachments/assets/f953f5ff-a2fc-461c-8b40-1b58b0643c73" />
-
----
-
 [![My github stats](https://github-stats-extended.vercel.app/api?username=fedi41)](https://github.com/stats-organization/github-stats-extended)
 
 ---
