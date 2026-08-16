@@ -31,6 +31,10 @@ I am Fedor, also known as fedi41. This is the github account for my coding stuff
 
 ---
 
+[![My github stats](https://github-stats-extended.vercel.app/api?username=fedi41)](https://github.com/stats-organization/github-stats-extended)
+
+---
+
 ### Some simple games I made:
 - [The fish game](https://fedi41.itch.io/the-fish-game)
 - [Flappylotl](https://fedi41.itch.io/flappylotl)
